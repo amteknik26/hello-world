@@ -1,4 +1,4 @@
 # hello-world
-You must always honour traditions.
+Traditions must be honoured.
 
 I like end-slices of bread.
